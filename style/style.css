@@ -23,10 +23,11 @@ form{
 	background-color: transparent;
 	width: 150px;
 	height: 150px;
-	transition: all 1s ease-out;
+	
  
 }
 .head-button:hover{
+	transition: all 1s ease-out;
 	transform: scale(1.2);
 
 }
